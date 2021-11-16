@@ -14,6 +14,6 @@ This project was deployed on Heroku and uses MongoDB Atlas as a database.
 
 https://budget-tracker-bretpeters3n.herokuapp.com/
 
-## animated GIF walk through
+## animated GIF project walk through
 
 [![An animated GIF walk through showcasing this application.](./assets/budget-tracker.gif)]
