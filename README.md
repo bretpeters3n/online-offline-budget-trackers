@@ -12,7 +12,7 @@ This project was deployed on Heroku and uses MongoDB Atlas as a database.
 
 ## heroku deployment link
 
-https://budget-tracker-bretpeters3n.herokuapp.com/
+https://online-offline-budget-pwa.herokuapp.com/
 
 ## animated GIF project walk through
 
